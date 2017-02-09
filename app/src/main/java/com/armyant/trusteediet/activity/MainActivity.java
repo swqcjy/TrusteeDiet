@@ -9,6 +9,9 @@ import com.armyant.trusteediet.utils.ToastUtils;
 
 import butterknife.Bind;
 
+/**
+ * 主界面
+ */
 public class MainActivity extends BaseActivity implements View.OnClickListener {
 
 
