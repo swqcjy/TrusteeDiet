@@ -1,0 +1,163 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <!-- 新的字体 -->
+    <dimen name="fonta">16sp</dimen>
+    <!-- 1 -->
+    <dimen name="fontb">13sp</dimen>
+    <!-- 2 -->
+    <dimen name="fontc">21sp</dimen>
+    <!-- 3 -->
+    <dimen name="fontd">17sp</dimen>
+    <!-- 4 -->
+    <dimen name="fonte">20sp</dimen>
+    <!-- 5 -->
+    <dimen name="fontf">15sp</dimen>
+    <!-- 6 -->
+    <dimen name="fontg">15sp</dimen>
+    <!-- 7 -->
+    <dimen name="fonth">14sp</dimen>
+    <!-- 8 -->
+    <dimen name="fonti">18sp</dimen>
+    <!-- 9 -->
+    <dimen name="fontj">11sp</dimen>
+    <!-- 9 -->
+    <dimen name="fontk">11sp</dimen>
+
+    <dimen name="fontl">12sp</dimen>
+
+    <dimen name="fontnum">27sp</dimen>
+    <dimen name="fontbn">19sp</dimen>
+
+    <dimen name="top_height">45dp</dimen>
+    <!-- 各种间距 -->
+    <dimen name="light_blue_space">7dp</dimen>
+    <dimen name="yellow_space">8dp</dimen>
+    <dimen name="brown_space">10dp</dimen>
+    <dimen name="blue_space">13dp</dimen>
+    <dimen name="deep_yellow_space">14dp</dimen>
+    <dimen name="red_space">20dp</dimen>
+    <dimen name="orange_space">17dp</dimen>
+    <dimen name="green_space">17dp</dimen>
+    <dimen name="shenfen">60dp</dimen>
+    <dimen name="xm_fx">25dp</dimen>
+    <dimen name="tv_jianju">3dp</dimen>
+    <dimen name="tv_jieshao">70dp</dimen>
+    <dimen name="tv_space">15dp</dimen>
+    <dimen name="edit_text_height">43dp</dimen>
+    <dimen name="edit_online_text_height">50dp</dimen>
+    <dimen name="width_edit_text_height">73dp</dimen>
+    <dimen name="bj_dl">25dp</dimen>
+    <dimen name="bj_fx">55dp</dimen>
+    <dimen name="bj_pro_fx">21dp</dimen>
+
+    <!-- 房源 -->
+    <dimen name="hs_chat_heigh">30dp</dimen>
+    <dimen name="hs_select_heigh">30dp</dimen>
+    <dimen name="hs_map_top_heigh">45dp</dimen>
+    <dimen name="hs_item_img_h">250dp</dimen>
+    <dimen name="hs_item_icon_h">50dp</dimen>
+    <dimen name="pop_height">101dp</dimen>
+    <dimen name="hs_item_padding">8dp</dimen>
+    <dimen name="loc_text_size">15sp</dimen>
+    <dimen name="hs_heigh">35dp</dimen>
+
+    <!-- 定金 -->
+
+    <dimen name="order_text_width">75dp</dimen>
+
+    <!-- 申请退还定金 -->
+    <dimen name="orde_back_text_width">120dp</dimen>
+    <dimen name="orde_back_textmon_width">40dp</dimen>
+    <!-- 详情页 -->
+
+    <dimen name="about_item_height">45dp</dimen>
+    <dimen name="about_item_width">80dp</dimen>
+
+    <!-- 发布房源 -->
+    <dimen name="pb_top_height">240dp</dimen>
+    <dimen name="pb_item_height">40dp</dimen>
+    <dimen name="pb_text_height">60dp</dimen>
+    <dimen name="pb_bottom">80dp</dimen>
+    <dimen name="radio_item_margin">80dp</dimen>
+    <dimen name="text_right_margin_left">70dp</dimen>
+
+    <!--发布公司介绍-->
+    <dimen name="edit_gs_jieshao_height">150dp</dimen>
+
+    <dimen name="pub_jp_gap">18dp</dimen>
+
+    <!-- 我的 -->
+    <dimen name="name_margin">10dp</dimen>
+    <dimen name="item_height">50dp</dimen>
+    <dimen name="item_pdingleft">25dp</dimen>
+    <dimen name="hs_m_heigh">40dp</dimen>
+
+    <!-- 我的合同 -->
+    <dimen name="ht_item_gap_height">13dp</dimen>
+    <dimen name="ht_btn_height">40dp</dimen>
+    <dimen name="ht_top_height">30dp</dimen>
+    <dimen name="ht_fra_btn_height">40dp</dimen>
+
+    <!-- 设置 -->
+
+    <dimen name="setting_item_height">40dp</dimen>
+
+    <!-- 我的账户 -->
+
+    <dimen name="mac_top_height">150dp</dimen>
+
+    <!-- 组织间隙 -->
+    <dimen name="space_margin_item">14dp</dimen>
+    <dimen name="space_margin_gap">5dp</dimen>
+    <dimen name="space_margin_gap_double">10dp</dimen>
+    <dimen name="space_margin">15dp</dimen>
+    <dimen name="space_marginLeft">15dp</dimen>
+    <dimen name="space_marginRight">15dp</dimen>
+    <dimen name="double_space_margin">30dp</dimen>
+    <dimen name="space_margin29">29dp</dimen>
+
+    <!-- 下拉刷新 -->
+    <dimen name="header_height">60dp</dimen>
+    <dimen name="footer_height">53dp</dimen>
+    <dimen name="footer_padding">10dp</dimen>
+
+    <!-- 线上签约 -->
+    <dimen name="sig_top_height">48dp</dimen>
+    <dimen name="sig_top_text_height">43dp</dimen>
+    <dimen name="sig_bottom_icon_height">67dp</dimen>
+
+    <dimen name="sig_middle_height">130dp</dimen>
+    <dimen name="sig_middle_item_height">80dp</dimen>
+    <dimen name="sig_middle_item_width">120dp</dimen>
+    <dimen name="sig_text_width">75dp</dimen>
+    <dimen name="sig_small_img">30dp</dimen>
+    <dimen name="sig_text_block_width">65dp</dimen>
+
+    <!-- 个人中心 -->
+    <dimen name="zone_top_height">150dp</dimen>
+    <dimen name="zone_icon_width">60dp</dimen>
+    <dimen name="zone_item_height">50dp</dimen>
+    <dimen name="zone_item_width">65dp</dimen>
+    <dimen name="zone_gander_width">80dp</dimen>
+
+    <!-- 物业交接单 -->
+    <dimen name="jjd_item_height">40dp</dimen>
+    <dimen name="edit_img_height">28dp</dimen>
+
+    <!-- 拍照提示-->
+    <dimen name="pt_marg_top">30dp</dimen>
+    <dimen name="pt_marg_left">22dp</dimen>
+    <dimen name="pt_marg_left2">40dp</dimen>
+    <dimen name="pt_text_marg_top">30dp</dimen>
+    <dimen name="pt_text_marg_top2">17dp</dimen>
+
+    <!-- 登陆注册 -->
+    <dimen name="lg_top_h">53dp</dimen>
+    <dimen name="vali_btn_w">90dp</dimen>
+    <dimen name="vali_btn_h">33dp</dimen>
+    <dimen name="font0">10dp</dimen>
+</resources>

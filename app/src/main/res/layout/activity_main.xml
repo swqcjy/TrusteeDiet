@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp">
+
+    <Button
+        android:id="@+id/btn_food"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="食材管理" />
+
+    <Button
+        android:id="@+id/btn_vegetable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/btn_food"
+        android:text="菜品管理" />
+
+    <Button
+        android:id="@+id/btn_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btn_food"
+        android:text="菜谱管理" />
+
+    <Button
+        android:id="@+id/btn_buyer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btn_food"
+        android:layout_toRightOf="@id/btn_menu"
+        android:text="采购管理" />
+
+    <Button
+        android:id="@+id/btn_plan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btn_menu"
+        android:text="备餐管理" />
+
+    <Button
+        android:id="@+id/btn_product"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btn_menu"
+        android:layout_toRightOf="@id/btn_plan"
+        android:text="成品管理" />
+
+    <Button
+        android:id="@+id/btn_sample"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btn_plan"
+        android:text="留样管理" />
+
+    <Button
+        android:id="@+id/btn_wash"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btn_plan"
+        android:layout_toRightOf="@id/btn_sample"
+        android:text="洗消管理" />
+
+    <Button
+        android:id="@+id/btn_photo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btn_sample"
+        android:text="机构相册" />
+
+    <Button
+        android:id="@+id/btn_grow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btn_photo"
+        android:text="成长" />
+</RelativeLayout>
